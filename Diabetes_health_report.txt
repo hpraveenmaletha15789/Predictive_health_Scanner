@@ -1,0 +1,12 @@
+
+    **Health Report for Diabetes**
+    
+    **Diagnosis:**
+    The person is not diabetic
+    
+    **Input Features:**
+    {'Pregnancies': 1.0, 'Glucose': 8.0, 'BloodPressure': 9.0, 'SkinThickness': 5.0, 'Insulin': 8.0, 'BMI': 8.0, 'DPF': 7.0, 'Age': 8.0}
+    
+    **Recommendations:**
+    Based on the results of your test, it is recommended to follow a healthy lifestyle and consult with a healthcare professional for further guidance.
+    

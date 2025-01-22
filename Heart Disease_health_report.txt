@@ -1,0 +1,12 @@
+
+    **Health Report for Heart Disease**
+    
+    **Diagnosis:**
+    The person does not have any heart disease
+    
+    **Input Features:**
+    {'Age': 1.0, 'Sex': 1.0, 'CP': 5.0, 'RestBP': 2.0, 'Chol': 2.0, 'FBS': 456.0, 'RestECG': 3.0, 'Thalach': 3.0, 'Exang': 4.0, 'Oldpeak': 4.0, 'Slope': 4.0, 'CA': 45.0, 'Thal': 1.0}
+    
+    **Recommendations:**
+    Based on the results of your test, it is recommended to follow a healthy lifestyle and consult with a healthcare professional for further guidance.
+    
