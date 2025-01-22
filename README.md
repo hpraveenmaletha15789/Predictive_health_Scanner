@@ -1,6 +1,4 @@
-﻿# Smart Diagnosis Hub
-
- # Smart Diagnosis Hub
+﻿ # Smart Diagnosis Hub
 
 Welcome to **Smart Diagnosis Hub**! This project is designed to predict various diseases based on user inputs and provide personalized assistance through a chatbot feature.
 
